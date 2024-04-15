@@ -5,6 +5,6 @@
 </p>
 
 <p align="center">
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmass&langs_count=8&show_icons=true&locale=en&layout=compact&theme=light" alt="Michael's language"/>
-<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=michaelmass&show_icons=true" alt="michaelmass" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelmass&langs_count=8&show_icons=true&locale=en&layout=compact&theme=light" alt="Michael's language"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=michaelmass&show_icons=true" alt="michaelmass" />
 </p>
